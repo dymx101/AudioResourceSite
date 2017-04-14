@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome Audio Resuoruce Site
 
 You can use the [editor on GitHub](https://github.com/dymx101/AudioResourceSite/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
